@@ -1,0 +1,22 @@
+{
+  "name": "hotelpro-platform",
+  "version": "1.0.0",
+  "description": "HotelPro — Modern Full-Stack Hotel & Reservation Management Platform (MERN)",
+  "scripts": {
+    "server": "npm --prefix server run dev",
+    "client": "npm --prefix client run dev",
+    "seed": "npm --prefix server run seed",
+    "start": "npm --prefix server start",
+    "build": "npm --prefix client run build"
+  },
+  "keywords": [
+    "hotel-management",
+    "reservation-system",
+    "mern-stack",
+    "react",
+    "express",
+    "mongodb"
+  ],
+  "author": "HotelPro Engineering",
+  "license": "MIT"
+}
